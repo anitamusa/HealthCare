@@ -49,7 +49,7 @@ public class DoctorDetailsActivity extends AppCompatActivity {
             {
                     {"Doctor Name: Fatmir Azemi"," Hospital Address: Prishtine","Exp: 8 yrs","Mobile:+38349825654"},
                     {"Doctor Name: Lindita Abazi"," Hospital Address: Mitrovice","Exp: 11 yrs","Mobile:+38349851409"},
-                    {"Doctor Name: Dijane Berisha"," Hospital Address: Gjilane","Exp: 5 yrs","Mobile:+38349861857"},
+                    {"Doctor Name: Dijane Azemi"," Hospital Address: Gjilane","Exp: 5 yrs","Mobile:+38349861857"},
                     {"Doctor Name: Bleranda Hyseni"," Hospital Address: Vushtrri","Exp: 5 yrs","Mobile:+38345678244"},
                     {"Doctor Name: Arbnora Karaqa"," Hospital Address: Ferizaj","Exp: 20 yrs","Mobile:+38344681734"},
             };
