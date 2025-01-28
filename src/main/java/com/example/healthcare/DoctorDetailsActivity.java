@@ -25,8 +25,8 @@ public class DoctorDetailsActivity extends AppCompatActivity {
             {
                     {"Doctor Name: Gzim Abrashi"," Hospital Address: Prishtine","Exp: 8 yrs","Mobile:+38349825654"},
                     {"Doctor Name: Vlora Begu"," Hospital Address: Mitrovice","Exp: 11 yrs","Mobile:+38349851409"},
-                    {"Doctor Name: Anita Ukshini"," Hospital Address: Gjilan","Exp: 5 yrs","Mobile:+38349861857"},
-                    {"Doctor Name: Artina Beka"," Hospital Address: Vushtrri","Exp: 5 yrs","Mobile:+38345678244"},
+                    {"Doctor Name: Anita Musa"," Hospital Address: Peje","Exp: 5 yrs","Mobile:+38349861857"},
+                    {"Doctor Name: Artina Azemi"," Hospital Address: Vushtrri","Exp: 5 yrs","Mobile:+38345678244"},
                     {"Doctor Name: Halim Braha"," Hospital Address: Ferizaj","Exp: 20 yrs","Mobile:+38344681734"},
             };
     private String [][] doctor_details2=
